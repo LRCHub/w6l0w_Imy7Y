@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "新世界",
+  "base_artist": "Radwimps",
+  "createdAt": "2026-02-25T09:52:52.252523Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "新世界",
+      "artist": "Yoshino Nanjō",
+      "has_synced": true,
+      "path": "select/01_新世界_Yoshino_Nanjō.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "新世界",
+      "artist": "Nanjō, Yoshino",
+      "has_synced": true,
+      "path": "select/02_新世界_Nanjō,_Yoshino.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "新世界",
+      "artist": "告五人",
+      "has_synced": true,
+      "path": "select/03_新世界_告五人.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "新世界",
+      "artist": "Hua Chen Yu",
+      "has_synced": true,
+      "path": "select/04_新世界_Hua_Chen_Yu.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "新世界",
+      "artist": "Magic Power",
+      "has_synced": true,
+      "path": "select/05_新世界_Magic_Power.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "新世界",
+      "artist": "告五人",
+      "has_synced": true,
+      "path": "select/06_新世界_告五人.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "新世界",
+      "artist": "SNH48",
+      "has_synced": true,
+      "path": "select/07_新世界_SNH48.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "新世界",
+      "artist": "MP魔幻力量",
+      "has_synced": true,
+      "path": "select/08_新世界_MP魔幻力量.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "新世界",
+      "artist": "Katncandix2",
+      "has_synced": true,
+      "path": "select/09_新世界_Katncandix2.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "新世界 (BUMP OF CHICKEN TOUR 2023 be there at SAITAMA SUPER ARENA - DAY1 -)",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/10_新世界_(BUMP_OF_CHICKEN_TOUR_2023_be_there_at_SAITAMA_SUPER_ARENA_-_DAY1_-)_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "新世界",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/11_新世界_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "新世界 (Shin Sekai)",
+      "artist": "Uplift Spice",
+      "has_synced": true,
+      "path": "select/12_新世界_(Shin_Sekai)_Uplift_Spice.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ACIDMAN - 新世界",
+      "artist": "ACIDMAN",
+      "has_synced": true,
+      "path": "select/13_ACIDMAN_-_新世界_ACIDMAN.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "新世界",
+      "artist": "萧煌奇",
+      "has_synced": true,
+      "path": "select/14_新世界_萧煌奇.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "新世界",
+      "artist": "平原綾香",
+      "has_synced": false,
+      "path": "select/15_新世界_平原綾香.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "新世界",
+      "artist": "棉花糖",
+      "has_synced": true,
+      "path": "select/16_新世界_棉花糖.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "新世界",
+      "artist": "RADWIMPS",
+      "has_synced": false,
+      "path": "select/pl_01_新世界_RADWIMPS.txt"
+    }
+  ]
+}
